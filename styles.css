@@ -1,0 +1,25 @@
+.navbar {
+    height: 8rem;
+}
+.doc-content {
+    background-color: aliceblue!important;
+    border-radius: 10px;
+}
+.group {
+    height: 8rem;
+    align-items: center;
+    display: grid;
+}
+@media only screen and (max-width: 1440px) {
+    nav {
+        font-size: 12px;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    nav {
+        font-size: 9px;
+    }
+}
+/* .nav-content li {
+    padding: 2rem;
+} */
